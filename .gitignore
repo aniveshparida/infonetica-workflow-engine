@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.dbmdl
+*.pidb
+*.svclog
+
+# Logs
+*.log
+
+# Others
+.env
